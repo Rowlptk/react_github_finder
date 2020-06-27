@@ -1,0 +1,18 @@
+# create react app:
+npx create-react-app .
+
+# start server:
+npm start
+
+# Build Production file
+npm run build
+
+#install axios
+npm i axios
+
+# install react-router-dom
+npm i react-router-dom 
+
+7. User Component UI & Layout
+==> 6:42
+
