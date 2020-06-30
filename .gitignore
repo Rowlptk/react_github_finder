@@ -12,7 +12,6 @@
 /build
 
 # misc
-/faqs.txt
 .DS_Store
 .env.local
 .env.development.local
