@@ -13,6 +13,14 @@ npm i axios
 # install react-router-dom
 npm i react-router-dom 
 
-7. User Component UI & Layout
-==> 6:42
+# install netlify cli
+npm i -g netlify-cli
 
+# error => Unexpected end of JSON input while parsing near '...AQBQJdxDW7CRA9TVsSAnZ'
+npm cache clean --force
+
+# initialize netlify
+netlify init
+
+# deploy to netlify
+netlify deploy --prod
